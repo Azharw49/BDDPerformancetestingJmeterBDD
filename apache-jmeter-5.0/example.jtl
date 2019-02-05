@@ -1,0 +1,5 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1548998458814,310,Flipkart,301,Moved Permanently,Example Thread Group 1-1,text,true,,366,115,1,1,http://www.flipkart.com/,308,0,235
+1548998461844,446,Amazon,301,Moved Permanently,Example Thread Group 1-1,text,true,,550,112,1,1,http://www.amazon.in/,445,0,387
+1548998462295,805,Mynthra,301,Moved Permanently,Example Thread Group 1-1,,true,,855,113,1,1,http://www.myntra.com/,805,0,489
+1548998463446,162,Flipkart,301,Moved Permanently,Example Thread Group 1-1,text,true,,366,115,1,1,http://www.flipkart.com/,161,0,98
